@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d855f01a-56ad-4721-a439-c89fd4947a8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/man/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/man/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/Math.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rect/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rect/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rect/Rect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/monster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/monster/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monster/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Dog/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Dog/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Dog/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Dog/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Employee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Employee/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Employee/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Employee/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Rect/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Rect/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Rect/Rect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Rect/Rect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Box/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/box/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Box/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/box/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Box/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/box/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dog/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rect/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rect/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rect/Rect.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,28 +35,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Box/Box.java">
+        <entry file="file://$PROJECT_DIR$/src/math/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-786">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Box/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="182">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Box/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/math/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="260">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,10 +82,16 @@
         <option value="$PROJECT_DIR$/src/monster/Monster.java" />
         <option value="$PROJECT_DIR$/src/monster/Main.java" />
         <option value="$PROJECT_DIR$/src/Box.java" />
+        <option value="$PROJECT_DIR$/src/man/Man.java" />
+        <option value="$PROJECT_DIR$/src/man/Main.java" />
+        <option value="$PROJECT_DIR$/src/math/Main.java" />
+        <option value="$PROJECT_DIR$/src/math/Math.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1959" />
+    <option name="y" value="32" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -96,25 +111,26 @@
             <path>
               <item name="Main" type="b2602c69:ProjectViewProjectNode" />
               <item name="Main" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Main" type="b2602c69:ProjectViewProjectNode" />
               <item name="Main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="man" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556232759914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556286318840" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -131,39 +147,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dog.Main" />
+      <option name="MAIN_CLASS_NAME" value="math.Main" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rect.Main" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Rect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee.Main" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Employee.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,20 +174,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="man.Main" />
       <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="man.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dog.Main" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rect.Main" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.Main" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -213,16 +248,18 @@
       <updated>1556134100149</updated>
       <workItem from="1556134103564" duration="2641000" />
       <workItem from="1556196088290" duration="9154000" />
+      <workItem from="1556282015181" duration="3326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11795000" />
+    <option name="totallyTimeSpent" value="15121000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1936" height="1096" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -231,7 +268,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -278,28 +315,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dog/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/dog/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dog/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/dog/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rect/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/rect/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rect/Rect.java">
+    <entry file="file://$PROJECT_DIR$/src/rect/Rect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
@@ -312,14 +349,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Employee/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/employee/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Employee/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/employee/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
@@ -344,49 +381,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Box.java">
+    <entry file="file://$PROJECT_DIR$/src/Box.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Box/Monster.java" />
+    <entry file="file://$PROJECT_DIR$/src/box/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Box/Monster.java">
+    <entry file="file://$PROJECT_DIR$/src/box/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Box/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-786">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Box/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Box/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/box/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/man/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/man/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
