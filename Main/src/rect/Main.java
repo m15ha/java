@@ -1,4 +1,4 @@
-package Rect;
+package rect;
 
 public class Main {
     public static void main(String[] args) {

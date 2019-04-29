@@ -1,4 +1,4 @@
-package Rect;
+package rect;
 
 public class Rect {
     int lenght;

@@ -1,6 +1,4 @@
-package Dog;
-
-import java.sql.SQLOutput;
+package dog;
 
 public class Main {
     public static void main(String[] args) {
