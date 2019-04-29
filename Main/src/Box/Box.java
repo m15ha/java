@@ -42,7 +42,7 @@ public class Box {
     }
 
     Box increase(int i) {
-        return new Box(width *i, height * i, length * i);
+        return new Box(width * i, height * i, length * i);
     }
 
     Box sumBox(Box box) {
@@ -56,6 +56,21 @@ public class Box {
     void showVolume() {
         System.out.println(volume());
     }
+
+    void compare1(Box box) {
+        double thizVolume = volume();
+        double bokzVolume = box.volume();
+        if (thizVolume > bokzVolume) {
+            System.out.println("bigger");
+        } else if (thizVolume < bokzVolume) {
+            System.out.println("lower");
+        } else {
+            System.out.println("iqual");
+
+        }
+
+    }
+
 
     int compare(Box box) {
         double thisVolume = volume();
