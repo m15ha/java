@@ -2,7 +2,7 @@ package Rusakov;
 
 import javax.swing.*;
 
-public class Main {
+public class Lesson1 {
     public static void main(String[] args) {
         String in;
         in = JOptionPane.showInputDialog(null, "Type positive number", JOptionPane.QUESTION_MESSAGE);
@@ -15,7 +15,7 @@ public class Main {
                 }
                 System.out.println(summ);
             } else {
-                System.out.println("Try again");
+                System.out.println("Try again2");
             }
         }
         // JOptionPane.showMessageDialog(null, "hello");
