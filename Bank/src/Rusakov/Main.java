@@ -4,18 +4,20 @@ import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 7;
-        if (a>b){
-            System.out.println("a>b");
-        } else {
-            System.out.println("a<b");
+        String in;
+        in = JOptionPane.showInputDialog(null, "Type positive number", JOptionPane.QUESTION_MESSAGE);
+        if ((in != null) && !in.equals("")) {
+            int n = Integer.parseInt(in);
+            int summ = 0;
+            if (n > 0) {
+                for (int i = 0; i < n; i++) {
+                    summ += i;
+                }
+                System.out.println(summ);
+            } else {
+                System.out.println("Try again");
+            }
         }
-
-        String str = a < b ? "a<b" : "a > b";
-        System.out.println(str);
-        System.out.println(a<b ? "a<b" : "a>b");
-
-       // JOptionPane.showMessageDialog(null, "hello");
+        // JOptionPane.showMessageDialog(null, "hello");
     }
 }
