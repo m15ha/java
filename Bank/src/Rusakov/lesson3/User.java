@@ -40,8 +40,9 @@ public class User {
 
     }
 
-    public void getInfo() {
+    public String getInfo() {
         System.out.println("id = " + id + "; Login: " + login + "; Password: " + password);
+        return null;
     }
 
     public void whoIsOlder(User u) {

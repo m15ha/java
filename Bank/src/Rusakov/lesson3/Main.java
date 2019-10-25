@@ -4,6 +4,13 @@ public class Main {
     public static void main(String[] args) {
         User user1 = new User(1, "Bob", "12345");
         User user2 = new User(2, "Mike", "qwerty");
+        UserSocial us = new UserSocial(6, "Daniel", "kjjjklh", "Daniel", 28);
+        WebMaster wm = new WebMaster(7, "Dan", "5444lh", "mail.com");
+
+        wm.setWebAddress("mail.ru");
+        System.out.println(wm.getWebAddress());
+        wm.getInfo();
+
         User user3 = new User();
         User[] first = new User[3];
         user1.setLogin("Boby");
