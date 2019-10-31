@@ -1,6 +1,6 @@
 package Rusakov.lesson3;
 
-public class User {
+public abstract class User implements PrintData {
     int id;
     String login;
     String password;
@@ -52,4 +52,6 @@ public class User {
             System.out.println(this.id + " smaller " + u.id);
         } else System.out.println(this.id + " the same " + u.id);
     }
+
+    public abstract void printUser ();
 }

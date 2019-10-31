@@ -30,5 +30,9 @@ public class UserSocial extends User {
     public void setUserAge(int userAge) {
         this.userAge = userAge;
     }
-    
+
+    @Override
+    public void printUser() {
+
+    }
 }

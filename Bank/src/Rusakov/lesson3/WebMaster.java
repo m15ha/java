@@ -26,4 +26,9 @@ public class WebMaster extends User{
         s += "; www " + this.webAddress;
         return s;
     }
+
+    @Override
+    public void printUser() {
+        System.out.println(super.getInfo());
+    }
 }
