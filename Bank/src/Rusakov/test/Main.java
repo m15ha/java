@@ -15,6 +15,9 @@ public class Main {
             person.setName("Lada");
             System.out.println(person.getPersonInfo());
         }
+        InnerClass f = new InnerClass("BB", "Bill", 45);
+        System.out.println(f.director.name);
+        System.out.println(f.director.isPensioner());
     }
 
 }
