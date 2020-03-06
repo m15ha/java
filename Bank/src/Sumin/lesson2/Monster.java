@@ -49,4 +49,20 @@ public class Monster {
         System.out.println(result);
     }
 
+    public int total() {
+        return (qtyArm * qtyLegs + qtyEyes);
+    }
+
+    int compare(Monster monster) {
+        int thisTotal = total();
+        int monsterTotal = monster.total();
+        if (thisTotal > monsterTotal) {
+            return 1;
+        } else if (thisTotal < monsterTotal) {
+            return -1;
+        } else return 0;
+    }
+
+
+
 }
