@@ -1,4 +1,4 @@
-package Rusakov;
+package Rusakov.test3;
 
 import javax.swing.*;
 

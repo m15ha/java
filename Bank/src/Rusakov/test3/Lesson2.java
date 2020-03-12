@@ -1,4 +1,4 @@
-package Rusakov;
+package Rusakov.test3;
 
 public class Lesson2 {
     public static void main(String[] args) {

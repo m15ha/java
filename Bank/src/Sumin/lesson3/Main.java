@@ -6,8 +6,8 @@ public class Main {
         String n = result.substring(5, 9);
         String a = result.substring(17, 19);
         String h = result.substring(42, 48);
-        int h1 = (int)h;
+        //int h1 = (int)h;
         String p = result.substring(64, 74);
-        Man man = new Man(n, a, h, p);
+      //  Man man = new Man(n, a, h, p);
     }
 }
